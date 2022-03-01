@@ -30,4 +30,4 @@ This datapack is released under the Apache License, Version 2.0, see [LICENSE](h
 4. yay!
 
 # Contribution
-Please check [CONTRIBUTING.md](CONTRIBUTING.md) if you have any bugs or requests for this extension, or if you want to help translating it into other languages!
+Please check [CONTRIBUTING.md](CONTRIBUTING.md)(Preparing) if you have any bugs or requests for this extension, or if you want to help translating it into other languages!
